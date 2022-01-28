@@ -5,8 +5,8 @@
 body {
     background-image: url("../images/Pokémon_Stadium.png");
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-position: center;
+    background-size: auto;
     
 }
 
@@ -68,6 +68,6 @@ html {
 }
 
 #link a:hover {
-    color: rgba(159, 255, 4, 0.952);
-    text-shadow: 0 1px 0 rgb(247, 76, 9);
+    color: rgba(229, 245, 8, 0.952);
+    text-shadow: 0 1px 0 rgb(124, 247, 9);
 }
